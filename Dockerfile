@@ -1,4 +1,4 @@
-FROM ubuntu:1404
+FROM ubuntu:14.04
 MAINTAINER vinod.panicker@wipro.com
 RUN apt-get update
 
